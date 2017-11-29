@@ -14,9 +14,9 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
 </keymap>
