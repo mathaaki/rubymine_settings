@@ -12,6 +12,82 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/CFPropertyList-2.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.1.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.6, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/io" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/cgi" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/drb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/irb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/net" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rss" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/uri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/racc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/yaml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rexml" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rinda" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/shell" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/digest" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/fiddle" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/matrix" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/ripper" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/syslog" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/webrick" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/optparse" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rubygems" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/forwardable" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="libxml-ruby (v2.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/ext" />
@@ -20,6 +96,24 @@
       <SOURCES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.5.6, ruby-2.0.0-p648) [gem]">
@@ -34,6 +128,28 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/lib" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/tasks" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.4.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.0.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.7, ruby-2.0.0-p648) [gem]">
@@ -118,6 +234,26 @@
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
         <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.2.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
+      </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.2.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
       </SOURCES>
     </library>
   </component>
