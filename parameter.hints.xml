@@ -6,6 +6,7 @@
         <added pattern="PersonalCard::Entry::Creater::ClassMethods.regist_my_card_entry_create!(eight_user,card,args)" />
         <added pattern="PersonalCard::Entry::Creater::ClassMethods.gees_entry_create!(card,args)" />
         <added pattern="PersonalCard::Entry::Creator::ClassMethods.regist_my_card_entry_create!(eight_user,card,args)" />
+        <added pattern="PersonalCard::Entry::Generator.regist_entry_create!(card,args)" />
       </blacklist>
     </blacklists>
   </component>
