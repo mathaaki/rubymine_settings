@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="go" type="Native" />
       <mapping pattern="hoge" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
