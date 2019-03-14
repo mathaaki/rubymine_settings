@@ -22,6 +22,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aasm-5.0.1/gemfiles" />
       </excluded>
     </library>
+    <library name="abstract_type (v0.0.7, rbenv: 2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/abstract_type-0.0.7/config" />
+      </excluded>
+    </library>
     <library name="actioncable (v5.0.7, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -755,6 +774,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.6.0, rbenv: 2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.6, rbenv: 2.4.1) [gem]" type="rubylib">
